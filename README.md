@@ -2,8 +2,6 @@
 
 An interactive landing page for the class “Mastering LinkedIn for Career Growth”. Focused on conversion, speed, and accessibility.
 
-![LinkedIn Learning Landing Page](https://via.placeholder.com/800x400/0A66C2/FFFFFF?text=LinkedIn+Learning+Landing+Page)
-
 ## Live Demo
 - Vercel: https://belajar-linked-in-landingpage.vercel.app/
 
@@ -28,3 +26,9 @@ An interactive landing page for the class “Mastering LinkedIn for Career Growt
 - Form validation for feedback and registration
 
 ## Project Structure
+```bash
+BelajarLinkedIn-landingpage/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
