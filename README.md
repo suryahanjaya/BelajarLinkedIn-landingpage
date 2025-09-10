@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/your-linkedin-banner.png" alt="Belajar LinkedIn Landing Page Banner">
-</p>
-
 <h1 align="center">🚀 Belajar LinkedIn – Landing Page</h1>
 
 <p align="center">
